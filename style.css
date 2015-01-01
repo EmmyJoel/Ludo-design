@@ -1,0 +1,125 @@
+html {
+    background: rgb(2, 15, 17) fixed;
+}
+
+.container {top:120px;
+    background: black;
+    width: 345px;
+    height: 345px;
+    position: relative;
+    border-top: 18px outset rgba(146, 96, 11, 0.959);
+    border-right: 18px outset rgba(165, 112, 20, 0.959);
+    border-left: 18px inset rgba(177, 121, 25, 0.959);
+    border-bottom: 18px inset rgba(146, 96, 11, 0.959);
+    margin: auto;
+}
+
+.horizontal {
+    width: 100%;
+    height: 23px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid black;
+    box-sizing: border-box;
+}
+
+.vertical {
+    width: 23px;
+    height: 100%;
+    position: relative;
+    float: left;
+    background-color: transparent;
+    border-right: 1px solid black;
+    box-sizing: border-box;
+}
+
+.first {
+    background: rgb(0, 13, 199);
+    width: 138px;
+    height: 138px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 2px solid black;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.second {
+    background: rgb(248, 9, 148);
+    width: 138px;
+    height: 138px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    border: 2px solid black;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.third {
+    background: rgb(31, 211, 15);
+    width: 138px;
+    height: 138px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    border: 2px solid black;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.fourth {
+    background: rgb(233, 250, 0);
+    width: 138px;
+    height: 138px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.fifth {
+    background: rgb(255, 0, 34);
+    width: 69px;
+    height: 69px;
+    position: relative;
+    left: 138px;
+    top: -207px;
+    border: 2px solid rgb(20, 1, 1);
+    margin: 0;
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+
+.yellow {
+    width: 100%;
+    height: 115px;
+    position: absolute;
+    bottom: 23px;
+    background-color: rgb(233, 250, 0);
+}
+
+.pink {
+    width: 100%;
+    height: 115px;
+    position: absolute;
+    top: 23px;
+    background-color: rgb(248, 9, 148);
+}
+
+.green {
+    width: 115px;
+    height: 100%;
+    margin-top: -22px;
+    margin-left: 207px;
+    background-color: rgb(31, 211, 15);
+}
+
+.blue {
+    width: 115px;
+    height: 100%;
+    margin-left: 23px;
+    background-color: rgb(5, 19, 211);
+}

@@ -24,7 +24,7 @@ Preview
 Live preview : [https://emmyjoel.github.io/Ludo-design/]
 
 
-## Let,s Link up on socials 😃
+## Let's Link up on socials 😃
 
 - Twitter : [https://www.twitter.com/Jay_n_Codes/]
 - LinkedIn : [https://www.linkedin.com/in/emmanuel-okhuoya-735576238]
